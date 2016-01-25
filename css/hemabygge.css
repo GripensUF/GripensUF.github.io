@@ -212,8 +212,9 @@ box-shadow:         0px 12px 16px 0px rgba(0, 0, 0, 1);
 }
 
 .bild1 {
-    background-image: url(../images/LoveStorFs.jpeg);
+    background-image: url(../images/LoveStorFs.jpg);
     background-size: cover;
+    padding: 25%;
 }
 
 .bild2 {
